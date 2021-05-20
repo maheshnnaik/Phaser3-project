@@ -1,0 +1,3 @@
+- `npm install` : installs the dependencies.
+- `npm run build` : created build folder.
+- `npm start` : Starts the game in local webserver with live reload.
