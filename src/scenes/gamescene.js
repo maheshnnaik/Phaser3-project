@@ -127,7 +127,7 @@ class Explosion extends Phaser.Physics.Arcade.Sprite{
     constructor(scene,x,y, texture){
     super(scene,x,y,texture = 'explosive');
     scene.add.existing(this);
-    this.play('kaboom');
+    this.play('explode');
     }
 }
 
